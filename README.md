@@ -1,4 +1,4 @@
-### Hi, I'm Vishnu Priya
+### Hi, I'm Vishnu Priya - aka Droidpedia Academy 👩🏻‍💻
 
 - 🔭 I’m currently working at WhitehatJr 
 - 🌱 I’m currently learning anything possible, because I love learning!!!
@@ -7,3 +7,4 @@
 - 💬 Ask me about Android, Web Development & Design.
 - 📫 How to reach me: whitehatjr.priya@gmail.com
 - ⚡ Fun fact: I can solve a Rubik's Cube in under a minute!
+- 💁
