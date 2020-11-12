@@ -1,6 +1,7 @@
 ### Hi, I'm Vishnu Priya - aka Droidpedia Academy 👩🏻‍💻
 
-- 🔭 I’m currently working at WhitehatJr
+- My Youtube Channel: https://www.youtube.com/channel/UCipOQ0TxgLFkEkA2SSCdA1A?view_as=subscriber
+- 🔭 I’m currently working at WhitehatJr as a Director
 - 🔭 I’m currently working on MatterJs Course , Android App Development Course,
 - 🌱 I’m currently learning anything possible, because I love learning!!!
 - 👯 I’m looking to collaborate with other content creators.
