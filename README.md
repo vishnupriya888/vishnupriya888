@@ -8,6 +8,6 @@
 - 🤔 I’m looking for help with design.
 - 💬 Ask me about Android, Web Development & Design.
 - 📫 How to reach me: whitehatjr.priya@gmail.com
-- 🥅 2020 Goals: Contribute more to Open Source projects, Launch My Online Course
+- 🥅 2021 Goals: Contribute more to Open Source projects, Launch My Online Course
 - ⚡ Fun fact: I can solve a Rubik's Cube in under a minute!
 - ⚡ Fun fact: I love playing piano, micro art.
