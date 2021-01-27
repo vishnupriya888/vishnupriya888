@@ -5,7 +5,7 @@
 
 <br/>
 <p align='center'>
-<a href="https://github.com/vishnupriya-whitehatjr"><img src="https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white" height=25></a>              <a href="https://www.linkedin.com/in/vishnupriyayerram/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" height=25></a>               <a href="https://www.instagram.com/droidpediaacademy/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?logo=instagram&logoColor=white" height=25></a> <a href="https://www.facebook.com/vishnupriya888/"><img src="https://img.shields.io/badge/Facebook-1877F2?logoColor=white" height=25></a>             <a href="https://www.youtube.com/channel/UCipOQ0TxgLFkEkA2SSCdA1A"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" height=25></a>
+<a href="https://github.com/vishnupriya-whitehatjr"><img src="https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white" height=25></a>              <a href="https://www.linkedin.com/in/vishnupriyayerram/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" height=25></a>               <a href="https://www.instagram.com/droidpediaacademy/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?logo=instagram&logoColor=white" height=25></a> <a href="https://www.facebook.com/vishnupriya888/"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" height=25></a>             <a href="https://www.youtube.com/channel/UCipOQ0TxgLFkEkA2SSCdA1A"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" height=25></a>
 
 </p>
 
