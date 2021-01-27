@@ -14,3 +14,6 @@
 
 <br/>
 <a href="https://github.com/vishnupriya-whitehatjr"><img src="https://img.shields.io/badge/github-%23E4405F.svg?&style=for-the-badge&logo=github&logoColor=white" height=25></a>
+
+<a href="https://www.linkedin.com/in/vishnupriya/“><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+
