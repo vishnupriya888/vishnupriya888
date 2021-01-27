@@ -80,4 +80,9 @@
 <img align="right" src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white"/>
 <img align="right" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white"/>
 <img align="right" src="https://img.shields.io/badge/Microsoft-666666?logo=microsoft&logoColor=white"/>
+
+- 👨‍💻 <b>Application Developer</b>\
+  📆 March,2018 - July,2019\
+ 📍 **ONS Solutions** - Hyderabad,India
+ <img align="right" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"/>
 </details>
