@@ -56,7 +56,7 @@
  📍 **Expertrons** - Mumbai,India
 <img align="right" src="https://img.shields.io/badge/Python-14354C?&logo=python&logoColor=white"/>
 <img align="right" src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white"/>
-<img align="right" src="https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"/>
 <img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
 <img align="right" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB"/>
 <img align="right" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"/>
