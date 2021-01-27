@@ -18,7 +18,7 @@
  </p>
 
 
-<p align="center>
+<p align="center">
 - 🔭 I’m currently working at WhitehatJr as a Director
 - 🔭 I’m currently working on MatterJs Course , Android App Development Course,
 - 🌱 I’m currently learning anything possible, because I love learning!!!
