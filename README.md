@@ -14,5 +14,5 @@
 </p>
 
 <p align='center'>
- 📫 </t>  How to reach me: <a href='mailto:whitehatjr.priya@gmail.com'>whitehatjr.priya@gmail.com</a>
+ 📫          How to reach me: <a href='mailto:whitehatjr.priya@gmail.com'>whitehatjr.priya@gmail.com</a>
  </p>
