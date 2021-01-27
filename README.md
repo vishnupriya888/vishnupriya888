@@ -21,8 +21,6 @@
  
 ### About Me
 <p>  
-- 🔭 I’m currently working at WhitehatJr as a Director<br/>
-- 🔭 I’m currently working on MatterJs Course , Android App Development Course,<br/>
 - 🌱 I’m currently learning anything possible, because I love learning!!!<br/>
 - 👯 I’m looking to collaborate with other content creators.<br/>
 - 🤔 I’m looking for help with design.<br/>
