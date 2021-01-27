@@ -17,7 +17,7 @@
  ✍🏻 How to reach me: <a href='mailto:whitehatjr.priya@gmail.com'>whitehatjr.priya@gmail.com</a>
  </p>
 <details>
- <summary>About Me</summary>
+ <summary> 👋🏻 About Me</summary>
 <p>  
 - 🔭 I’m currently working at WhitehatJr as a Director<br/>
 - 🔭 I’m currently working on MatterJs Course , Android App Development Course,<br/>
