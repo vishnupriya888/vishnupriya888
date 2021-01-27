@@ -35,7 +35,7 @@
 ### My Experience
 - 👨‍💻 <b>Director</b>\
   📆 Oct,2019 - Moment\
- 📍 **WhiteHatJr**
+ 📍 **WhiteHatJr**\
  Skills :
 <img align="right" src="https://img.shields.io/badge/Python-14354C?&logo=python&logoColor=white"/>
 <img align="right" src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white"/>
