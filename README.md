@@ -33,7 +33,7 @@
  </p>
  
 ### My Experience
-- 👨‍💻 **Director **
+- 👨‍💻 **Director **\
 - 📆 Oct,2019 - Moment
 - Skills : 
 <img align="right" src="https://img.shields.io/badge/Python-14354C?&logo=python&logoColor=white"/>
