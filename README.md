@@ -18,7 +18,7 @@
  </p>
 <details>
  <summary>About Me</summanry>
- 
+<p>  
 - 🔭 I’m currently working at WhitehatJr as a Director<br/>
 - 🔭 I’m currently working on MatterJs Course , Android App Development Course,<br/>
 - 🌱 I’m currently learning anything possible, because I love learning!!!<br/>
@@ -28,5 +28,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects, Launch My Online Course<br/>
 - ⚡ Fun fact: I can solve a Rubik's Cube in under a minute!<br/>
 - ⚡ Fun fact: I love playing piano, micro art.<br/>
+ </p>
  
 </details>
