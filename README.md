@@ -34,8 +34,8 @@
  
 ### My Experience
 - 👨‍💻 <b>Director</b>
-- 📆 Oct,2019 - Moment
-- Skills : 
+  📆 Oct,2019 - Moment
+ Skills : 
 <img align="right" src="https://img.shields.io/badge/Python-14354C?&logo=python&logoColor=white"/>
 <img align="right" src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white"/>
 <img align="right" src="https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white"/>
