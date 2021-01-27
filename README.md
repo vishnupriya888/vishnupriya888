@@ -25,7 +25,6 @@
 - 👯 I’m looking to collaborate with other content creators.<br/>
 - 🤔 I’m looking for help with design.<br/>
 - 💬 Ask me about Android, Web Development & Design and Python!.<br/>
-- 📫 How to reach me: whitehatjr.priya@gmail.com<br/>
 - 🥅 2021 Goals: Contribute more to Open Source projects, Launch My Online Course<br/>
 - ⚡ Fun fact: I can solve a Rubik's Cube in under a minute!<br/>
 - ⚡ Fun fact: I love playing piano, micro art.<br/>
