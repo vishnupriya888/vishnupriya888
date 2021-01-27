@@ -69,4 +69,15 @@
 <img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
 <img align="right" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB"/>
 <img align="right" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"/>
+
+
+- 👨‍💻 <b>Application Development Associate</b>\
+  📆 March,2018 - July,2019\
+ 📍 **Accenture** - Hyderabad,India
+<img align="right" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/Microsoft-666666?logo=microsoft&logoColor=white"/>
 </details>
