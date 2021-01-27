@@ -11,3 +11,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects, Launch My Online Course
 - ⚡ Fun fact: I can solve a Rubik's Cube in under a minute!
 - ⚡ Fun fact: I love playing piano, micro art.
+
+<br/>
+
+<a href="https://www.youtube.com/channel/UCipOQ0TxgLFkEkA2SSCdA1A">Youtube</a>, share open source projects @ 
