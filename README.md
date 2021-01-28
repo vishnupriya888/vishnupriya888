@@ -50,6 +50,7 @@
 <img align="right" src="https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white"/>
 <img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
 <img align="right" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB"/>
+<br/>
 
 - 👨‍💻 <b>Mentor</b>\
   📆 October,2019 - Moment\
@@ -60,6 +61,7 @@
 <img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
 <img align="right" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB"/>
 <img align="right" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"/>
+<br/>
 
 - 👨‍💻 <b>Mentor</b> <a href="https://mentorselector.com/mentor/vishnu-priya-yerram/">See me here!  </a>\
   📆 October,2019 - Moment\
@@ -71,6 +73,7 @@
 <img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
 <img align="right" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB"/>
 <img align="right" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"/>
+<br/>
 
 
 - 👨‍💻 <b>Application Development Associate</b>\
@@ -82,6 +85,7 @@
 <img align="right" src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white"/>
 <img align="right" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white"/>
 <img align="right" src="https://img.shields.io/badge/Microsoft-666666?logo=microsoft&logoColor=white"/>
+<br/>
 
 - 👨‍💻 <b>Application Developer</b>\
   📆 March,2018 - July,2019\
