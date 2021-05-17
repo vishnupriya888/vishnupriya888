@@ -16,6 +16,9 @@
 <p align='center'>
  ✍🏻 How to reach me: <a href='mailto:whitehatjr.priya@gmail.com'>whitehatjr.priya@gmail.com</a>
  </p>
+ <p align='center'>
+ ✍🏻 How to reach me: <a href='mailto:vishnu.priya@whitehatjr.com'>vishnu.priya@whitehatjr.com</a>
+ </p>
 <details>
  <summary> 👇🏻 My Resume</summary>
  
